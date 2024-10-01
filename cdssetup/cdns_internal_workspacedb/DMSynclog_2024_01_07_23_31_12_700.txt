@@ -1,0 +1,7 @@
+[INFO][2024:01:07-23:31:12:932] - Number of files added:47
+[INFO][2024:01:07-23:31:13:189] - Number of files deleted:0
+[INFO][2024:01:07-23:31:13:259] - Home:C:\Users\chadh\AppData\Roaming\SPB_Data
+[INFO][2024:01:07-23:31:13:260] - UserName:
+[INFO][2024:01:07-23:31:13:272] - Server is running @ http://0.0.0.0:52822 at time : Sun Jan 07 2024 23:31:12 GMT-0500 (Eastern Standard Time)
+[INFO][2024:01:07-23:31:13:284] - Port:52822 Cloud Server - https://pcb.cadence.com
+[INFO][2024:01:07-23:31:13:294] - Logging State: OFF
